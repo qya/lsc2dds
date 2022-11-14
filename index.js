@@ -22,7 +22,7 @@ files
           }
       });
     } catch(e) {
-    	console.log(e)
+    	console.log('Error : '+e)
     }
   });
 }else if(pref == '-s'){
